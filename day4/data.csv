@@ -1,0 +1,11 @@
+Name,Age,City,Department,Salary
+Alice,28,New York,HR,52000
+Bob,34,San Francisco,Engineering,75000
+Charlie,25,Los Angeles,Marketing,48000
+David,45,New York,Engineering,82000
+Eva,30,San Francisco,HR,
+Frank,38,,Engineering,67000
+Grace,29,New York,Marketing,55000
+Helen,,Los Angeles,HR,43000
+Ian,41,New York,Engineering,88000
+Judy,36,Chicago,Marketing,61000
